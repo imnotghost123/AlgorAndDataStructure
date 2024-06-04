@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using AlgorAndDataStructure.Array;
-
+//using AlgorAndDataStructure.Array;
+using AlgorAndDataStructure.TwoPointer;
 #region array testing
 //List<int[]> twosumData = new List<int[]>();
 //twosumData.Add(new int []{ 2, 7, 11, 15 });
@@ -33,6 +33,21 @@ using AlgorAndDataStructure.Array;
 //ContainsDuplicate containsDuplicate = new ContainsDuplicate();
 //containsDuplicate.ContainsDuplicateJob();
 
-ContainsDuplicateII containsDuplicateII = new ContainsDuplicateII();
-containsDuplicateII.ContainsDuplocateIIJob();
+//ContainsDuplicateII containsDuplicateII = new ContainsDuplicateII();
+//containsDuplicateII.ContainsDuplocateIIJob();
+
+
+//TwoSumII twoSumII = new TwoSumII();
+//twoSumII.TwoSumIIJob();
+#endregion
+
+#region Two Pointer testing
+
+//JudSquareSum judSquareSum = new JudSquareSum();
+//judSquareSum.JudSquareSumJob();
+
+ReverseVowelsOfAString reverseVowelsOfAString = new ReverseVowelsOfAString();
+
+reverseVowelsOfAString.ReverseVowelOfAStringJob();
+
 #endregion
