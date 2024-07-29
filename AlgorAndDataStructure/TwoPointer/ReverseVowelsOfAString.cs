@@ -11,7 +11,7 @@ namespace AlgorAndDataStructure.TwoPointer
         public void ReverseVowelOfAStringJob()
         {
             List<string> data = new List<string>() ;
-            data.Add("hello");
+            data.Add("hellow");
             data.Add("leetcode");
 
 
@@ -29,7 +29,7 @@ namespace AlgorAndDataStructure.TwoPointer
             char[] result = new char[s.Length];
             while (i <= j)
             {
-                 char ci = s[i];   
+                char ci = s[i];   
                 char cj = s[j];
                 if (!vowels.Contains(ci))
                 {

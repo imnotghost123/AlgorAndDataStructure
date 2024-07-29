@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //using AlgorAndDataStructure.Array;
+using AlgorAndDataStructure.LinkedList;
 using AlgorAndDataStructure.TwoPointer;
 #region array testing
 //List<int[]> twosumData = new List<int[]>();
@@ -46,8 +47,17 @@ using AlgorAndDataStructure.TwoPointer;
 //JudSquareSum judSquareSum = new JudSquareSum();
 //judSquareSum.JudSquareSumJob();
 
-ReverseVowelsOfAString reverseVowelsOfAString = new ReverseVowelsOfAString();
+//ReverseVowelsOfAString reverseVowelsOfAString = new ReverseVowelsOfAString();
 
-reverseVowelsOfAString.ReverseVowelOfAStringJob();
+//reverseVowelsOfAString.ReverseVowelOfAStringJob();
 
 #endregion
+
+#region List Node
+//ReverseLinkedList206.ReverseLinkedList206Job();
+
+//RemoveLinkedListElements.DoTheJob();
+
+RemoveDuplicatesSortedList83.DoTheJob();
+#endregion
+
