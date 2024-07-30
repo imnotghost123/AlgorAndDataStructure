@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //using AlgorAndDataStructure.Array;
+using AlgorAndDataStructure.HashMap;
 using AlgorAndDataStructure.LinkedList;
 using AlgorAndDataStructure.TwoPointer;
 #region array testing
@@ -58,6 +59,30 @@ using AlgorAndDataStructure.TwoPointer;
 
 //RemoveLinkedListElements.DoTheJob();
 
-RemoveDuplicatesSortedList83.DoTheJob();
+//RemoveDuplicatesSortedList83.DoTheJob();
+
 #endregion
 
+#region HashTable, Dictionary
+//Console.WriteLine(13276 % 100);
+
+//Dictionary<int,string> keyValuePairs = new Dictionary<int, string>()
+//{
+//    { 1,"a"},
+//    { 2,"b"},
+//    { 3,"c"},
+//    { 4,"d"},
+//    { 5,"e"},
+
+//};
+
+//Console.WriteLine(keyValuePairs.GetHashCode());
+
+//Console.WriteLine("apple".GetHashCode());
+
+//string apple = "applesss";
+//int hashCode = apple.GetHashCode();
+//Console.WriteLine($"The hash code for \"apple\" is: {hashCode}");
+
+TestCRUD.DoTheJob();
+#endregion

@@ -19,7 +19,7 @@ namespace AlgorAndDataStructure.LinkedList
             data2.next.next= new ListNodes(4);
 
 
-            ListNodes cur = 
+          //  ListNodes cur = 
         }
 
 
